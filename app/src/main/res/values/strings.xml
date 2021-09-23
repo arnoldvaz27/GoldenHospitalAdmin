@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Golden Hospital Admin</string>
+    <string name="short_app_name">GH Admin</string>
+    <string name="none">None</string>
+    <string name="todo">Todo</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="reset">Reset</string>
+    <string name="log_in">Log in</string>
+</resources>
